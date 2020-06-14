@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="250.0" prefWidth="430.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Ajuda">
+   <children>
+      <TextArea editable="false" layoutX="14.0" layoutY="14.0" prefHeight="208.0" prefWidth="370.0" text="Autor: Professor Jeimeson Roberto França&#10;&#10;Conteúdo:&#10;- Você sempre deve deixar 1 campo vazio para realizar o cálculo.&#10;- A variável tempo, apesar de aparecer duas vezes, deve ser preenchida uma única vez, ao lado da velocidade inicial. Pois, poderia gerar confusão no seu preenchimento." wrapText="true" />
+   </children>
+</AnchorPane>
